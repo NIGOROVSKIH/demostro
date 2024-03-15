@@ -37,7 +37,7 @@ body {
 
 .centered-image {
     display: inline-block;
-    margin-bottom: 20px; /* Добавляем отступ между изображением и кнопкой */
+    margin-bottom: 40px; /* Добавляем отступ между изображением и кнопкой */
 }
 
 .centered-image img {
